@@ -1,3 +1,3 @@
-# Praxisbeispiel.github.io
+# Praxisbeispiel
 
 Website für Praxisbeispiel 1
